@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cool projects, you can check my repositories.
 - 🌱 I’m currently learning javascript.
 - 👯 I’m looking to collaborate with 
-- 💬 Ask me about ...
+- 💬 Ask me about my projects you on rigth place; check my repositories. 
 - 📫 How to reach me: ...
