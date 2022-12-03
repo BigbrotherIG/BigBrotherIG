@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 You can view my resume and contact me by emailing Send me mail.
 - 📫 How to reach me: ...
 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=igbifagodwin&theme=algolia&show_icons=true" alt="Igbifa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igbifagodwin&langs_count=8&theme=algolia&show_icons=true" alt="Igbifa's GitHub stats" /> |
