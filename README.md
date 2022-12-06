@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 You can [view my resume](#) and contact me by emailing <a href="https://mailto:igbifagodwin@gmail.com" target="_blank">Send me mail</a>.
 - 📫 How to reach me: ...
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=BigbrotherIG&theme=algolia&show_icons=true" alt="Igbifa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigbrotherIG&langs_count=8&theme=algolia&show_icons=true" alt="Igbifa's GitHub stats" /> |
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=BigbrotherIG&theme=algolia&show_icons=true" alt="Igbifa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigbrotherIG&langs_count=8&theme=algolia&show_icons=true" alt="Igbifa's GitHub stats" />
