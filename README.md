@@ -6,7 +6,7 @@ Although I new here.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cool projects, you can check my repositories.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript, PHP.
 - 👯 I’m looking to collaborate with great minds including you reading this..
 - 💬 Ask me about my projects you on rigth place; check my repositories. 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
